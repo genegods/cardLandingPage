@@ -1,0 +1,21 @@
+
+body{
+  
+    background-color: #ced0cf;   
+}
+
+.wrapper{
+    background: url('./asserts/bg9.jpg'); 
+	height: 60vh;
+	background-position: center;
+	background-size: cover;
+}
+.centered{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.bgColor{
+    background-color:#015dbd;
+    
+}
